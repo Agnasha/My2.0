@@ -97,7 +97,7 @@ body {
   background-position: center; /* Para centralizar a imagem */
   background-repeat: no-repeat; /* Para evitar repetição da imagem */
   background-attachment: fixed; /* Para manter a imagem fixa */
-  background-image: url(/assets/img/CAPA\ SITE2.0.png);
+  background-image: url(/assets/img/CAPASITEmyma2.png);
  /* background-color: var(--body-color);*/
   color: var(--text-color);
 }
