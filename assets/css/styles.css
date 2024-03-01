@@ -92,7 +92,13 @@ input {
 }
 
 body {
-  background-color: var(--body-color);
+  
+  background-size: 390px 844px; /* Dimensões do iPhone 14 */
+  background-position: center; /* Para centralizar a imagem */
+  background-repeat: no-repeat; /* Para evitar repetição da imagem */
+  background-attachment: fixed; /* Para manter a imagem fixa */
+  background-image: url(/assets/img/Design\ sem\ nome.png);
+ /* background-color: var(--body-color);*/
   color: var(--text-color);
 }
 
